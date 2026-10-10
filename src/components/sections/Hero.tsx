@@ -4,9 +4,9 @@ import { ArrowRight, Shield, Zap, Users } from 'lucide-react'
 
 const stats = [
   { value: '10+', label: 'Years of Experience' },
-  { value: '200+', label: 'Projects Delivered' },
+  { value: '15+', label: 'Projects Delivered' },
   { value: '98%', label: 'Client Satisfaction' },
-  { value: '50+', label: 'Expert Team Members' },
+  { value: '15+', label: 'Expert Team Members' },
 ]
 
 const trust = [
